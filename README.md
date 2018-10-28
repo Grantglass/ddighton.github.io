@@ -7,7 +7,7 @@ This site contains the pronjects, presentaitons, and publications of the Desiree
 [![Gem](https://img.shields.io/gem/dt/jekyll-material-theme.svg)](https://img.shields.io/gem/dt/jekyll-material-theme.svg)
 
 
-### [Live Demo](https://jameshamann.com)
+### [Live Demo](https://ddighton.github.io/)
 
 ## License
 
