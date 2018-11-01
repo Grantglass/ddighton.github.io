@@ -1,36 +1,36 @@
-title: Desiree Dighton's Website
+title: Desiree Dighton
 name: Desiree Dighton
 email: desireedighton@gmail.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+description: Public Writing | Rhetorical Theory | Circulation Studies | Feminist Digital Methodologies
 
 baseurl: "/about"
 url: ""
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
-parallax_image_one: assets/images/background.jpeg # These are the images used for the parallax background
-parallax_image_two: assets/images/black_bkgd.jpg
+parallax_image_one: assets/images/gold_bkgd.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/gold-leather.jpg
 
-project_one: MyshawU
-project_one_description: Describe your project!
-project_one_url: 2017/12/04/hello-world/
+project_one: '#myshawu'
+project_one_description: '#myshawu was a prototype for the teaching of writing through student-generated social media images that archive campus history'
+project_one_url: /myshawu/
 project_one_icon: location_on
 
-project_two: Sketchnote Circulation
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two: Sketchnoting, Mobility, and Writing...
+project_two_description: This collaborative project looks at multimodal compositions in everyday mobile literacy practices through the lens of sketchnotes posted on Flickr.
+project_two_url: /sketchnotes/
 project_two_icon: photo_camera
 
 
-project_three: Quantifiying Gentrification
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three: Seeing through Digital Methods
+project_three_description: Disseration research that explores the circulation of anti-gentrication posts on social media.
+project_three_url: /through-methods/
 project_three_icon: hotel
 
 
-project_four: Social Activism and Storytelling
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four: Social Networks and Protest Rhetoric
+project_four_description: In this project, students collect, analyze, and remix social media data as an inventional resource for intervening in a contemporary social and political problem
+project_four_url: /protest/
 project_four_icon: restaurant
 
 portfolio_heading: Projects
@@ -146,7 +146,7 @@ colored: colored # Leave blank for black and white icons
 
 project_button: More Information
 
-github: https://github.com/jameshamann/jekyll-material-theme
+github: https://github.com/ddighton
 medium: https://medium.com
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
