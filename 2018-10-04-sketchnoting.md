@@ -28,6 +28,8 @@ The tags field was particularly informative for understanding mobility. We then 
 
 * Further analysis done through specific location-based human coding processes allowed us to understand users within categories of masters and apprentices who interacted based on unique affordances. These affordances were partly defined by users' technological and sketchnoting skills and experiences, semiotic resources available in situated spatial contexts, and the technological influence of social networking platforms and mobile devices. Continuing research will further trace how networked mobile technologies afford the circulation of messages and how the materialities of different technologies and social media platforms provide users opportunities and constraints based on a variety of semiotic resources that shape place, space and mobility of their texts. Pedagogically, this research suggests new heuristics for analyzing social media as multimodal compositions and invites new inquiry into understanding writing knowledge and skill transfer across a wide variety of social, professional, and technological context.
 
+The code for retrieving posts from Flickr is available on [Github](https://github.com/ddighton/flickr_scripts).
+
 This research was presented during an invited conference presentation: “Sketchnoting, Mobility, and Writing a Spatial Self,” with Stacey Pigg, co-panelists Kendra Andrews, Chen Chen, and Desiree Dighton at the Thomas R. Watson Conference in Louisville, KY on October 22, 2016.
 
 <br/><br/>

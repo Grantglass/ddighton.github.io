@@ -9425,6 +9425,14 @@ iframe.voyant {
     padding: 10px 10px 20px 10px;
 }
 
+@media only screen and (max-width: 800px) {
+  iframe.voyant {
+    float: none;
+    padding: 5px;
+    width: 100%;
+  }
+}
+
 /* image css */
 
 .page-img {
@@ -9432,6 +9440,15 @@ iframe.voyant {
     padding-right: 20px;
 }
 
+@media only screen and (max-width: 550px) {
+  .page-img {
+      float: none;
+      padding: 10px;
+  }
+  .page-img img {
+      width: 100% !important;
+ }
+}
 .gallery {
     display: flex;
     flex-wrap: wrap;
