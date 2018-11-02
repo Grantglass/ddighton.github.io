@@ -63,5 +63,8 @@ To explore this data’s relationship to more organized activism, I human coded 
 {% include iframe.html class="carto" url="https://ddighto.carto.com/builder/bfaac539-0216-45b3-ac2f-56cfe215ce78/embed" width="100%" height="600px" %}
 
 In future iterations of the map, I will incorporate symbology to distinguish between incoming art galleries and other gentrifying businesses, the places made vulnerable by eviction and rising rent prices, and the community centers and murals that reflect Boyle Heights’ Latinx cultural identities and Chicanx histories. Mapping DBH demonstrates the way in which this group makes visible gentrification’s ties to cultural erasure and human displacement. By including symbols that show DBH’s contribution to gallery and business closings, it also demonstrates how DBH circulates within physical and digital spaces to compose and retain Boyle Heights as a space that reflects situated cultural and economic values. Mapping DBH’s followers demonstrates how DBH circulates beyond their Los Angeles neighborhood to build alliances based on a sense of shared heritage and political goals.
+
+The code used to prepare data for the maps and create graphs is available on [Github](https://github.com/ddighton/twitter_scripts).
+
 <br/><br/>
 
