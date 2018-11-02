@@ -12,24 +12,24 @@ parallax_image_one: assets/images/gold_bkgd.jpg # These are the images used for 
 parallax_image_two: assets/images/gold-leather.jpg
 
 project_one: '#myshawu'
-project_one_description: '#myshawu was a prototype for the teaching of writing through student-generated social media images that archive campus history'
+project_one_description: '#myshawu was a prototype for teaching writing through student-generated social media images that archive campus life.'
 project_one_url: /myshawu/
 project_one_icon: location_on
 
 project_two: Sketchnoting, Mobility, and Writing...
-project_two_description: This collaborative project looks at multimodal compositions in everyday mobile literacy practices through the lens of sketchnotes posted on Flickr.
+project_two_description: This collaborative project examines multimodal compositions in everyday mobile literacy practices through the lens of sketchnotes posted on Flickr.
 project_two_url: /sketchnotes/
 project_two_icon: photo_camera
 
 
 project_three: Seeing through Digital Methods
-project_three_description: Disseration research that explores the circulation of anti-gentrication posts on social media.
+project_three_description: This digital project is part of my current dissertation research exploring the circulation of anti-gentrification activism on social media.
 project_three_url: /through-methods/
 project_three_icon: hotel
 
 
 project_four: Social Networks and Protest Rhetoric
-project_four_description: In this project, students collect, analyze, and remix social media data as an inventional resource for intervening in a contemporary social and political problem
+project_four_description: In this project, students collect, analyze, and remix social media data as an inventional resource for intervening in a contemporary social and political problem.
 project_four_url: /protest/
 project_four_icon: restaurant
 
