@@ -30,8 +30,8 @@ The tags field was particularly informative for understanding mobility. We used 
 -->
 
 <div class="gallery">
-{% include image.html image="/assets/images/sketchnote_wordcloud.png" width="400px" height="auto" %}
-{% include image.html image="/assets/images/sketchnote_relative_freq_graph.png" width="400px" height="auto" %}
+{% include image.html image="/assets/images/wordcloud.png" width="400px" height="auto" %}
+{% include image.html image="/assets/images/relative_freq_graph.png" width="400px" height="auto" %}
 </div>
 
 * Further analysis done through location-based human coding processes allowed us to understand users within categories of masters and apprentices who interacted based on unique affordances. These affordances were partly defined by users’ technological and sketchnoting skills and experiences, semiotic resources available in situated spatial contexts, and the technological influence of social networking platforms and mobile devices. Continuing research will further trace how networked mobile technologies afford the circulation of messages and how the materialities of different technologies and social media platforms provide users opportunities and constraints based on a variety of semiotic resources that shape the place, space, and mobility of their texts. Pedagogically, this research suggests new heuristics for analyzing social media as multimodal compositions and invites new inquiry into understanding writing knowledge and skill transfer across a wide variety of social, professional, and technological context.
